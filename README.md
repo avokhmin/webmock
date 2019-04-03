@@ -38,7 +38,7 @@ Supported Ruby Interpreters
 * JRuby
 * Rubinius
 
-##Installation
+## Installation
 
     gem install webmock
 
